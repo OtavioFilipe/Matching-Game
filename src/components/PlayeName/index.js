@@ -1,6 +1,8 @@
+import "./style.css";
+
 function PlayerName(value) {
   return `
-        <p>${value}</p>
+        <p class="player-name">${value}</p>
     `;
 }
 
