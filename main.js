@@ -4,6 +4,7 @@ import "./src/styles/elements/base.css";
 
 import BoardGame from "./src/objects/BoardGame";
 import ScoreBoard from "./src/objects/ScoreBoard";
+import PlayerScore from "./src/components/PlayerScore";
 
 const $app = document.querySelector("#app");
 
